@@ -1,5 +1,4 @@
 /**
- * @author William Zhang 251215208 
  * the purpose of this class is to find the best path to complete the chamber
  *
  */
