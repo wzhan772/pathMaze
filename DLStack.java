@@ -1,5 +1,4 @@
 /**
- * @author William Zhang 251215208 
  * the purpose of this class is to represent an extended stack ADT implementation using a doubly linked list
  *
  */
